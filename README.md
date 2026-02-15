@@ -30,7 +30,7 @@ Site-ul este compus din următoarele pagini:
 În această secțiune sunt prezentate capturi de ecran ale fiecărei pagini pentru a exemplifica aspectul vizual al proiectului:
 
 ### Pagina Acasă
-![Acasă](cale-catre-poza/index.png)
+![Acasă](index.png)
 
 ### Pagina Despre Mine
 ![Despre](cale-catre-poza/despre.png)
