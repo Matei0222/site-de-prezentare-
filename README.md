@@ -1,7 +1,3 @@
-Here is your text translated into natural, professional English, keeping a polished and human tone:
-
----
-
 # Personal Portfolio Website – Static HTML/CSS Project
 
 ## Project Overview
@@ -64,7 +60,6 @@ The website consists of the following pages:
 ---
 
 ## Visual Presentation (Screenshots)
-
 This section includes screenshots of each page to illustrate the visual design of the project:
 
 ### Home Page
