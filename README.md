@@ -1,53 +1,91 @@
-# Website Portofoliu Personal - Proiect Static HTML/CSS
+Here is your text translated into natural, professional English, keeping a polished and human tone:
 
-## Descriere Proiect
-Acest proiect reprezintă o platformă web de prezentare personală, dezvoltată integral utilizând tehnologii fundamentale de front-end: **HTML5** și **CSS3**. Site-ul este structurat în șase secțiuni distincte, fiecare fiind concepută pentru a demonstra bune practici în organizarea conținutului și stilizarea elementelor de interfață (UI).
+---
 
-Obiectivul principal al proiectului a fost crearea unui portofoliu digital care să îmbine funcționalitatea cu un design curat și profesional, facilitând navigarea intuitivă pe orice pagină.
+# Personal Portfolio Website – Static HTML/CSS Project
 
-## Structura Proiectului
-Site-ul este compus din următoarele pagini:
-1.  **Acasă (index.html):** Punctul de intrare, care include o scurtă introducere, integrare multimedia (video) și resurse externe relevante.
-2.  **Despre (despre.html):** Secțiune biografică ce utilizează structuri de tip grid pentru afișarea intereselor și integrarea unei hărți interactive prin iframe (Google Maps).
-3.  **CV (cv.html):** Prezentarea parcursului academic și a competențelor tehnice într-un format structurat, ușor de parcurs.
-4.  **Galerie (galerie.html):** Album foto care demonstrează manipularea imaginilor și alinierea acestora într-un layout modern.
-5.  **Proiecte (proiecte.html):** Listarea realizărilor și a resurselor utilizate, incluzând elemente de input de tip dată pentru organizare.
-6.  **Contact (contact.html):** Un formular complex care include diverse tipuri de validări și câmpuri (text, email, telefon, selecție, radio buttons, checkbox, încărcare fișier și selector de timp).
+## Project Overview
 
-## Atuuri și Competențe Tehnice Evidențiate
-*   **HTML5 Semantic:** Utilizarea corectă a etichetelor structurale (`header`, `nav`, `main`, `footer`, `section`) pentru o mai bună accesibilitate și indexare.
-*   **CSS Modern:** Implementarea conceptelor de Box Model, Flexbox și CSS Grid pentru realizarea unor layout-uri flexibile și alinierea precisă a elementelor.
-*   **Interactivitate și Formulare:** Crearea unui formular de contact complet funcțional la nivel de interfață, capabil să gestioneze diverse formate de date și fișiere atașate.
-*   **Integrare Media:** Încorporarea de conținut video nativ și elemente de tip iframe pentru hărți, demonstrând versatilitatea în gestionarea resurselor externe.
-*   **Design UX/UI:** Utilizarea unei palete cromatice echilibrate, a spațierii adecvate și a efectelor vizuale la trecerea mouse-ului (hover) pentru o experiență de utilizare optimă.
+This project represents a personal portfolio website developed entirely using core front-end technologies: **HTML5** and **CSS3**. The site is structured into six distinct sections, each carefully designed to demonstrate best practices in content organization and user interface (UI) styling.
 
-## Specificații Tehnice
-*   **Limbaje:** HTML5, CSS3.
-*   **Styling:** Fișier extern CSS (style.css) pentru o separare clară între structură și prezentare.
-*   **Responsivitate:** Structură bazată pe procente și unități de măsură flexibile pentru adaptarea pe diferite rezoluții.
+The main objective of this project was to create a digital portfolio that effectively combines functionality with a clean, professional design, ensuring intuitive navigation across all pages.
 
-## Prezentare Vizuală (Screenshots)
-În această secțiune sunt prezentate capturi de ecran ale fiecărei pagini pentru a exemplifica aspectul vizual al proiectului:
+---
 
-### Pagina Acasă
+## Project Structure
+
+The website consists of the following pages:
+
+1. **Home (index.html):**
+   The main entry point of the website, featuring a brief introduction, embedded multimedia content (video), and relevant external resources.
+
+2. **About (despre.html):**
+   A biographical section that uses grid-based layouts to present personal interests, along with an embedded interactive map (Google Maps via iframe).
+
+3. **CV (cv.html):**
+   A structured presentation of academic background and technical skills, organized in a clear and easy-to-read format.
+
+4. **Gallery (galerie.html):**
+   A photo album demonstrating image handling techniques and alignment within a modern layout.
+
+5. **Projects (proiecte.html):**
+   A detailed overview of completed projects and resources used, including date input elements for better organization.
+
+6. **Contact (contact.html):**
+   A comprehensive contact form incorporating multiple input types and validation fields, including text, email, phone number, dropdown selection, radio buttons, checkboxes, file upload, and a time picker.
+
+---
+
+## Key Strengths & Technical Skills Demonstrated
+
+* **Semantic HTML5:**
+  Proper use of structural tags (`header`, `nav`, `main`, `section`, `footer`) to improve accessibility, maintainability, and search engine indexing.
+
+* **Modern CSS Techniques:**
+  Implementation of the Box Model, Flexbox, and CSS Grid to create flexible layouts and ensure precise element alignment.
+
+* **Forms & Interactivity:**
+  Development of a fully functional front-end contact form capable of handling various data formats and file attachments.
+
+* **Media Integration:**
+  Integration of native video content and iframe-based maps, showcasing versatility in managing external resources.
+
+* **UX/UI Design Principles:**
+  Use of a balanced color palette, consistent spacing, and hover effects to deliver a smooth and professional user experience.
+
+---
+
+## Technical Specifications
+
+* **Languages:** HTML5, CSS3
+* **Styling:** External CSS file (`style.css`) to maintain a clear separation between structure and presentation
+* **Responsiveness:** Layout built using percentage-based dimensions and flexible units to ensure adaptability across different screen resolutions
+
+---
+
+## Visual Presentation (Screenshots)
+
+This section includes screenshots of each page to illustrate the visual design of the project:
+
+### Home Page
 ![Acasă](index.png)
 
-### Pagina Despre Mine
+## About Me Page
 ![Despre](cale-catre-poza/despre.png)
 
-### Curriculum Vitae (CV)
+## Curriculum Vitae (CV)
 ![CV](cale-catre-poza/cv.png)
 
-### Galerie Foto
+### Photo Gallery
 ![Galerie](cale-catre-poza/galerie.png)
 
-### Proiecte și Resurse
+### Projects & Resources
 ![Proiecte](cale-catre-poza/proiecte.png)
 
-### Formular de Contact
+### Contact Form
 ![Contact](cale-catre-poza/contact.png)
 
-## Instrucțiuni de Utilizare
-Pentru a vizualiza proiectul local:
-1.  Clonați acest depozit (repository).
-2.  Deschideți fișierul `index.html` în orice browser web modern.
+ ## How to Use
+  To view the project locally:
+1. Clone this repository.
+2. Open the index.html file in any modern web browser.
